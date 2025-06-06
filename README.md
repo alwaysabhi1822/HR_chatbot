@@ -25,7 +25,4 @@ GROQ_API_KEY=your_api_key
 
 4. Run: `uvicorn app:app --reload`
 
-## Features
-- Employee data retrieval
-- Session-based conversations
-- Role-specific response handling
+
