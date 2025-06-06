@@ -18,9 +18,13 @@
 3. Set environment variables in `.env`:
 
 #DB_HOST=localhost
+
 #DB_USER=root
+
 #DB_PASSWORD=your_password
+
 #DB_NAME=hr_chatbot
+
 #GROQ_API_KEY=your_api_key
 
 4. Run: `uvicorn app:app --reload`
