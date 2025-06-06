@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+mysql-connector-python
+bcrypt
+langchain-groq
+langchain-huggingface
+faiss-cpu
+python-multipart
